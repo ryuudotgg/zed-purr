@@ -1,7 +1,7 @@
 id = "purr"
 name = "Purr Themes"
 description = "A Zed theme based on Purr."
-version = "0.0.2"
+version = "0.0.3"
 schema_version = 1
 authors = ["Nemanja Stanic <hai@purr.gg>"]
 repository = "https://github.com/nemanjastanic/zed-purr"
