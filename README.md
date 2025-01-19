@@ -7,9 +7,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/***REMOVED***/zed-purr/stargazers"><img src="https://img.shields.io/github/stars/***REMOVED***/zed-purr?colorA=363A4F&colorB=B7BDF8&style=for-the-badge"></a>
-	<a href="https://github.com/***REMOVED***/zed-purr/issues"><img src="https://img.shields.io/github/issues/***REMOVED***/zed-purr?colorA=363A4F&colorB=F5A97F&style=for-the-badge"></a>
-	<a href="https://github.com/***REMOVED***/zed-purr/contributors"><img src="https://img.shields.io/github/contributors/***REMOVED***/zed-purr?colorA=363A4F&colorB=A6DA95&style=for-the-badge"></a>
+	<a href="https://github.com/ryuudotgg/zed-purr/stargazers"><img src="https://img.shields.io/github/stars/ryuudotgg/zed-purr?colorA=363A4F&colorB=B7BDF8&style=for-the-badge"></a>
+	<a href="https://github.com/ryuudotgg/zed-purr/issues"><img src="https://img.shields.io/github/issues/ryuudotgg/zed-purr?colorA=363A4F&colorB=F5A97F&style=for-the-badge"></a>
+	<a href="https://github.com/ryuudotgg/zed-purr/contributors"><img src="https://img.shields.io/github/contributors/ryuudotgg/zed-purr?colorA=363A4F&colorB=A6DA95&style=for-the-badge"></a>
 </p>
 
 ## Previews
@@ -39,11 +39,11 @@
 <br><br>
 
 <p align="center">
-	Copyright &copy; 2024 - Present <a href="https://***REMOVED***.com" target="_blank">***REMOVED***</a>
+	Copyright &copy; 2024 - Present <a href="https://ryuu.gg" target="_blank">Ryuu</a>
 </p>
 
 <p align="center">
-	<a href="https://github.com/***REMOVED***/zed-purr/blob/main/LICENSE">
+	<a href="https://github.com/ryuudotgg/zed-purr/blob/main/LICENSE">
     <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=D9E0EE&colorA=363A4F&colorB=B7BDF8" />
   </a>
 </p>
